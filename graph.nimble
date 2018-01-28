@@ -5,3 +5,5 @@ license       = "MIT"
 
 requires "nimPNG"
 requires "nim >= 0.15.2"
+
+skipDirs = @["examples"]
