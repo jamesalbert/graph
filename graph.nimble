@@ -1,4 +1,3 @@
-name          = "graph"
 version       = "0.1.0"
 author        = "jamesalbert"
 description   = "graphs and stuff"
